@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NASTAVA</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        
+    </style>
+</head>
+<body>
+    <div class="banner"> </div>
+    <div class="banner2">
+        <a href="english.html" class="menu-option">English</a>
+        <a href="Documents/Maths.html" class="menu-option">Mathematics</a>
+        <a href="biology.html" class="menu-option">Biology</a>
+        <a href="chemistry.html" class="menu-option">Chemistry</a>
+        <a href="physics.html" class="menu-option">Physics</a>
+        
+    </div>
+    <div class="banner3"> </div>
+    <div class="banner4"> </div>
+    <div class="banner6"> 
+        <ul>
+        <li> GCSE Paper 1: Wednesday 8 November 2023 (AM)</li> &nbsp
+        <li> GCSE Paper 2: Friday 10 November 2023 (AM)</li> &nbsp
+        <li> GCSE Paper 3: Monday 13 November 2023 (AM)</li> &nbsp
+
+        <li> GCSE Paper 1: Thursday 16 May 2024 (AM)</li> &nbsp
+        <li> GCSE Paper 2: Monday 3 June 2024 (AM)</li> &nbsp
+        <li> GCSE Paper 3: Monday 10 June 2024 (AM)</li> &nbsp
+        </ul>
+
+    
+    </div>
+    <div class="sticker"> </div>
+
+   
+    
+    <div class="buttons">
+        <button class="signup-button">Sign Up</button>
+        <button class="login-button">Log In</button>
+    </div>
+    
+    <img class="logo" src="Downloads/Logo.svg" alt="Your Logo">
+    <img class="centered-image" src="Downloads/mathsrevision.svg" alt="Maths Revision">
+    <img class="book-image" src="Downloads/Books.svg" alt="Book">
+    <img class="trig-image" src="Downloads/equation.svg" alt="Equation">
+    <img class="mcq-image" src="Downloads/MCQ.svg" alt="MCQ">
+    <img class="pastpapers-image" src="Downloads/pastpapers.svg" alt="MCQ">
+    <img class="textbook-image" src="Downloads/textbook.svg" alt="Textbook">
+    <img class="video-image" src="Downloads/yt.svg" alt="Textbook">
+    <img class="trig2-image" src="Downloads/trig2.svg" alt="Trig2">
+    <img class="resources-image" src="Downloads/resourcestext.svg" alt="Resources">
+    <img class="resources-image2" src="Downloads/resourcestext.svg" alt="Resources2">
+
+
+
+    <main>
+        <div class="section-square section1">
+            <h2 style="font-size: 22px">Multiple Choice Questions</h2>
+            <p style="font-size: 16px; margin-top: 350px;">Test our wide range of mathematical questions and expand your knowledge.</p>
+            <a class="oblong-button" href="file:///Users/sj/mcq.html">Learn More</a>
+        </div> 
+        <div class="section-square section2">
+            <h2 style="font-size: 22px">Past Papers</h2>
+            <p style="font-size: 16px; margin-top: 350px;">Prepare for exams and boost your math proficiency.</p>
+            <a class="oblong-button" href="http://127.0.0.1:5501/pastpapers.html">Learn More</a> 
+        </div> 
+        <div class="section-square section3">
+            <h2 style="font-size: 22px">Textbooks</h2>
+            <p style="font-size: 16px; margin-top: 350px;">Discover advanced math topics and improve your skills</p>
+            <a class="oblong-button" href="http://127.0.0.1:5500/textbook.html">Learn More</a> 
+        </div>
+        <div class="section-square section4">
+            <h2 style="font-size: 22px">Video Tutorials</h2>
+            <p style="font-size: 16px; margin-top: 350px;">Master complex mathematical concepts with our video Tutorials.</p>
+            <a class="oblong-button" href="http://127.0.0.1:5500/videos.html">Learn More</a>
+        </div>
+        <div class="section-square section5">
+            <h2 style="font-size: 22px">Worksheets</h2>
+            <p style="font-size: 16px; margin-top: 350px;">Master complex mathematical concepts with our video Tutorials.</p>
+            <a class="oblong-button" href="http://127.0.0.1:5500/videos.html">Learn More</a>
+        </div>
+        <div class="section-square section6">
+            <h2 style="font-size: 22px">Notes</h2>
+            <p style="font-size: 16px; margin-top: 350px;">Master complex mathematical concepts with our video Tutorials.</p>
+            <a class="oblong-button" href="http://127.0.0.1:5500/videos.html">Learn More</a>
+        </div>
+        <div class="resources-text">
+            <p style="font-family: 'Glacial Indifference', sans-serif;">
+                Welcome to the mathematics revision page, in this page you will find resources and help for your learning.
+            </p>
+        </div>
+        <div class="sticker">
+            <p style="font-family: 'Glacial Indifference', sans-serif;">
+                Upcoming GCSE MATHS exams
+            </p>
+        </div>
+    </main>
+
+    <div class="banner5"> </div>
+    
+</body>
+</html>
